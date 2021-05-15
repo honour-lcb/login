@@ -5,5 +5,6 @@ public class Text {
         System.out.println("hello git-dev");
         System.out.println("hello git");
         System.out.println("hello master");
+        System.out.println("hello git-dev2");
     }
 }
